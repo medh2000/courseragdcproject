@@ -27,7 +27,7 @@ Transformations
 7. Rename columns variables to subject
 8. Assign each y.train.test to its activity label in activity.label 
 9. Only graps data with mean and std variables
-10. Column Combine subject + y.train.test, observations with mean and std
+10. Combine subject + y.train.test, observations with mean and std
 ------------------------------------------------------------------------
 
 ```{r}
@@ -35,3 +35,7 @@ Transformations
 source("run_analysis.R")
 ```
 
+Link to Rpubs site
+------------------
+
+http://rpubs.com/medh2000/23987
